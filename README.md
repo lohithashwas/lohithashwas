@@ -1,6 +1,6 @@
 <!-- Header Section with Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Lohith+Ashwa+S+👋;Techie.+Innovator.+Creator.;Embedded+Systems+%26+IoT+Enthusiast;AI+%26+Robotics+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=2EA043&center=true&vCenter=true&width=800&lines=LOHITH+ASHWA;Crafting+smart+solutions;Hardware+%26+AI+Developer;Embedded+Systems+%26+IoT" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Crafting smart solutions through Hardware & AI ⚡</h3>
