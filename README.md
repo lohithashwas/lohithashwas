@@ -74,7 +74,11 @@
 ### 🐍 Contribution Snake Animation
 
 <div align="center">
-  <img src="https://github.com/lohithashwas/lohithashwas/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="github contribution grid snake animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lohithashwas/lohithashwas/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lohithashwas/lohithashwas/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lohithashwas/lohithashwas/output/github-contribution-grid-snake.svg?v=1">
+  </picture>
 </div>
 
 ---
