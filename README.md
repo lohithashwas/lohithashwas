@@ -87,6 +87,14 @@
 
 ---
 
+### 🧊 3D Contribution Graph
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Github Contributions" width="100%"/>
+</div>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30" alt="Footer" />
 </div>
